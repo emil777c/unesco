@@ -68,12 +68,21 @@ body {
   margin: 50px;
 }
 
-#second_section img {
-  width: 100%;
-  height: 100%;
+#second_section .section_wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
-#second_section .section_wrapper {
+.boks1 {
   width: 100%;
   height: 100%;
+  background-image: url(ikon01.png);
+  background-size: cover;
+}
+
+.boks2 {
+  width: 100%;
+  height: 100%;
+  background-image: url(ikon02.png);
+  background-size: cover;
 }
