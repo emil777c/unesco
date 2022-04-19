@@ -9,14 +9,18 @@
  * @since Twenty Nineteen 1.0
  */
 
+ 
 get_header();
 ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
-
+<section id="first_section">
+<div class="section_wrapper">
 		<h1>Velkommen til Unesco</h1>
 		<h3>Et verdensomspændende skolenetværk</h3>
+</div>
+</section>
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
