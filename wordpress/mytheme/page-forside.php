@@ -24,7 +24,9 @@ get_header();
 
 <section id="second_section">
 	<div class="section_wrapper">
-		<div class="boks1"></div>
+		<div class="boks1">
+			<img src="Verdensmaal/Verdensmaal-ikon-01.png" alt="">
+		</div>
 		<div class="boks2"></div>
 		<div class="boks3"></div>
 		<div class="boks4"></div>
