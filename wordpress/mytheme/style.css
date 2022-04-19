@@ -62,3 +62,69 @@ h3 {
 body {
   background-color: #fbe0c0;
 }
+
+.boks1 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-01.png);
+}
+
+.boks2 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-02.png);
+}
+.boks3 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-03.png);
+}
+.boks4 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-04.png);
+}
+.boks5 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-05.png);
+}
+.boks6 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-06.png);
+}
+.boks7 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-07.png);
+}
+.boks8 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-08.png);
+}
+.boks9 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-09.png);
+}
+.boks10 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-10.png);
+}
+.boks11 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-11.png);
+}
+.boks12 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-12.png);
+}
+
+.boks13 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-13.png);
+}
+
+.boks14 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-14.png);
+}
+
+.boks15 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-15.png);
+}
+
+.boks16 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-16.png);
+}
+
+.boks17 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-17.png);
+}
+
+.boks18 {
+  background-image: url(Verdensmaal/Verdensmaal-ikon-18.png);
+}
+
+.section_wrapper img {
+  max-width: 100%;
+}

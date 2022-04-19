@@ -17,16 +17,14 @@ get_header();
 		<main id="main" class="site-main">
 <section id="first_section">
 <div class="section_wrapper">
-		<h1>Velkommen til Unesco</h1>
+		<h1>Velkommen til UNESCO</h1>
 		<h3>Et verdensomspændende skolenetværk</h3>
 </div>
 </section>
 
 <section id="second_section">
 	<div class="section_wrapper">
-		<div class="boks1">
-			<img src="/Verdensmaal/Verdensmaal-ikon-01.png" alt="">
-		</div>
+		<div class="boks1"></div>
 		<div class="boks2"></div>
 		<div class="boks3"></div>
 		<div class="boks4"></div>
