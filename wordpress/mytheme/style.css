@@ -64,25 +64,3 @@ body {
 }
 
 /*Second section billede opsætning*/
-#second_section {
-  margin: 50px;
-}
-
-#second_section .section_wrapper {
-  display: grid;
-  grid-template-columns: 1fr;
-}
-
-.boks1 {
-  width: 100%;
-  height: 100%;
-  background-image: url(ikon01.png);
-  background-size: cover;
-}
-
-.boks2 {
-  width: 100%;
-  height: 100%;
-  background-image: url(ikon02.png);
-  background-size: cover;
-}
