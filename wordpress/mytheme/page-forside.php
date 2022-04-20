@@ -26,7 +26,9 @@ get_header();
 	<div class="section_wrapper">
 		<div class="boks boks1"></div>
 		<div class="boks boks2"></div>
-		<div class="boks boks3"></div>
+		<div class="boks boks3">
+			<img src="ikon03.png" alt="">
+		</div>
 		<div class="boks boks4"></div>
 		<div class="boks boks5"></div>
 		<div class="boks boks6"></div>
