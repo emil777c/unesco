@@ -24,24 +24,60 @@ get_header();
 
 <section id="second_section">
 	<div class="section_wrapper">
+		<a href="#">
 		<div class="boks boks1"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks2"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks3"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks4"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks5"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks6"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks7"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks8"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks9"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks10"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks11"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks12"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks13"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks14"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks15"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks16"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks17"></div>
+		</a>
+		<a href="#">
 		<div class="boks boks18"></div>
+		</a>
 	</div>
 </section>
 		</main><!-- #main -->

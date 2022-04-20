@@ -163,3 +163,7 @@ body {
   background-image: url(logo.png);
   background-size: cover;
 }
+
+.boks:hover {
+  transform: scale(1.1);
+}
