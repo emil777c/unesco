@@ -73,7 +73,6 @@ body {
   border: 2px solid blue;
   margin: 5px;
   height: 150px;
-  background-size: cover;
 }
 
 .boks1 {
@@ -83,5 +82,85 @@ body {
 
 .boks2 {
   background-image: url(ikon02.png);
+  background-size: cover;
+}
+
+.boks3 {
+  background-image: url(ikon03.png);
+  background-size: cover;
+}
+
+.boks4 {
+  background-image: url(ikon04.png);
+  background-size: cover;
+}
+
+.boks5 {
+  background-image: url(ikon05.png);
+  background-size: cover;
+}
+
+.boks6 {
+  background-image: url(ikon06.png);
+  background-size: cover;
+}
+
+.boks7 {
+  background-image: url(ikon07.png);
+  background-size: cover;
+}
+
+.boks8 {
+  background-image: url(ikon08.png);
+  background-size: cover;
+}
+
+.boks9 {
+  background-image: url(ikon09.png);
+  background-size: cover;
+}
+
+.boks10 {
+  background-image: url(ikon10.png);
+  background-size: cover;
+}
+
+.boks11 {
+  background-image: url(ikon11.png);
+  background-size: cover;
+}
+
+.boks12 {
+  background-image: url(ikon12.png);
+  background-size: cover;
+}
+
+.boks13 {
+  background-image: url(ikon13.png);
+  background-size: cover;
+}
+
+.boks14 {
+  background-image: url(ikon14.png);
+  background-size: cover;
+}
+
+.boks15 {
+  background-image: url(ikon15.png);
+  background-size: cover;
+}
+
+.boks16 {
+  background-image: url(ikon16.png);
+  background-size: cover;
+}
+
+.boks17 {
+  background-image: url(ikon17.png);
+  background-size: cover;
+}
+
+.boks18 {
+  background-image: url(logo.png);
   background-size: cover;
 }
