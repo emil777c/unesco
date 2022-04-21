@@ -24,7 +24,7 @@ get_header();
 
 <section id="second_section">
 	<div class="section_wrapper">
-		
+
 	</div>
 
 </section>
@@ -85,6 +85,12 @@ get_header();
 		<a href="#">
 		<div class="boks boks18"></div>
 		</a>
+	</div>
+</section>
+
+<section id="fourth_section">
+	<div class="section_wrapper">
+
 	</div>
 </section>
 		</main><!-- #main -->
