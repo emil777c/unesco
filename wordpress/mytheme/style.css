@@ -167,3 +167,12 @@ body {
 .boks:hover {
   transform: scale(1.1);
 }
+
+/* Opsætning til fjerde sektion*/
+#fourth_section .section_wrapper {
+  text-align: center;
+}
+
+#fourth_section h3 {
+  color: black;
+}
