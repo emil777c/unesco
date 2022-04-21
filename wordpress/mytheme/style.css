@@ -59,11 +59,11 @@ h3 {
 
 /*Body farve*/
 body {
-  background-color: #fbe0c0;
+  background-color: #ecd6cc;
 }
 
-/*Second section billede opsætning*/
-#second_section .section_wrapper {
+/*Third section billede opsætning*/
+#third_section .section_wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   margin: 200px;
